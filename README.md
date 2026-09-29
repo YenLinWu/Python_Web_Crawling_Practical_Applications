@@ -67,3 +67,5 @@ A : 開發環境為 VS Code 搭配本機 Python 環境；環境建置手順請�
 ## 授權
 
 本教材採用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant) 授權：可自由分享、重製、改作，但僅限非商業用途，且需標示來源並以相同授權方式分享後續作品。範例程式碼之著作權歸屬與資料來源之使用規範，請另見各週教材資料夾內之說明。
+
+[GOOGLE DRIVE 共用資料夾](https://drive.google.com/drive/folders/1GjX0uG14w3xHykIe1mkmtp0n18FrXqZu?usp=drive_link)
