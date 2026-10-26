@@ -1,0 +1,6 @@
+INFO 2026-10-20: Start crawling quotes.toscrape.com
+INFO 2026-10-20: Saved 10 quotes to authors.csv
+WARNING 2026-10-20: Tag not found in quote 3
+ERROR 2026-10-20: Connection timed out
+ERROR: 2026-10-21: Retry failed
+ERROR 2026-10-21: 404 Not Found /author/Albert-Einsten
