@@ -33,7 +33,7 @@ LinkedIn：[yenlinwu](https://www.linkedin.com/in/yenlinwu/)
 | W3 | 09/29 | HTTP 通訊協定與網頁資料請求 | HTTP · requests | [Week_03](./Week_03) |
 | W4 | 10/06 | HTML 網頁結構解析與資料擷取 | BeautifulSoup · read_html | [Week_04](./Week_04) |
 | W5 | 10/13 | 正規表達式與文字資料擷取 | 正規表達式 re | [Week_05](./Week_05) |
-| W6 | 10/20 | 分頁爬取、資料儲存與爬蟲規範 | 分頁 · SQLite · robots.txt | 尚未發布 |
+| W6 | 10/20 | 分頁爬取、資料儲存與爬蟲規範 | 分頁 · SQLite · robots.txt | [Week_06](./Week_06) |
 | W7 | 10/27 | AI 輔助程式開發與產出驗證 | Codeium/Windsurf · AI 輔助編程 | 尚未發布 |
 | W8 | 11/03 | 動態網頁爬取與 API 資料擷取 | Selenium/Playwright · JSON · XML | 尚未發布 |
 | W9 | 11/10 | 期中評量：專題啟動與階段成果發表 | Take Home 發表 · 專題提案 | 尚未發布 |
