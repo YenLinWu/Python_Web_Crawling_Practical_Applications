@@ -36,7 +36,7 @@ LinkedIn：[yenlinwu](https://www.linkedin.com/in/yenlinwu/)
 | W6 | 10/20 | 分頁爬取、資料儲存與爬蟲規範 | 分頁 · SQLite · robots.txt | [Week_06](./Week_06) |
 | W7 | 10/27 | AI 輔助程式開發與產出驗證 | Codeium/Windsurf · AI 輔助編程 | 尚未發布 |
 | W8 | 11/03 | 動態網頁爬取與 API 資料擷取 | Selenium/Playwright · JSON · XML | 尚未發布 |
-| W9 | 11/10 | 期中評量：專題啟動與階段成果發表 | Take Home 發表 · 專題提案 | 尚未發布 |
+| W9 | 11/10 | 期中評量 | Take-home Midterm Exam | [Take-home_Midterm_Exam](./Take-home_Midterm_Exam) |
 | W10 | 11/17 | 資料清理與前處理 | pandas | 尚未發布 |
 | W11 | 11/24 | 資料整理與轉換 | pandas（groupby · merge） | 尚未發布 |
 | W12 | 12/01 | 探索式資料分析 | 敘述統計 · 趨勢/異常 | 尚未發布 |
