@@ -1,0 +1,9 @@
+INFO 2026-11-02: Start crawling quotes.toscrape.com
+INFO 2026-11-02: Page 1 saved 10 quotes
+WARNING 2026-11-02: 429 Too Many Requests, retry after 4s
+INFO 2026-11-02: Page 2 saved 10 quotes
+ERROR 2026-11-02: Connection timed out /page/3/
+INFO 2026-11-03: Page 3 saved 10 quotes
+WARNING: 2026-11-03: Tag not found in quote 27
+ERROR 2026-11-03: 404 Not Found /author/Albert-Einsten
+INFO 2026-11-03: Finished, 30 quotes
