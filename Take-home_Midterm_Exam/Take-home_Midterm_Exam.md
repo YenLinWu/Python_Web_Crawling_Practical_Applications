@@ -25,7 +25,7 @@
 5. `soup.select("div.country")` 找不到任何符合的元素時，會回傳 `None`。
 6. 回應標頭 `Content-Type` 沒有標明 charset 時，requests 會用 ISO-8859-1 解碼 `resp.text`，因此 books.toscrape.com 的價格會出現 `Â£51.77` 亂碼。
 7. `re.findall(r"\d+", "Explain Like I'm 10")` 的結果是 `['1', '0']`。
-8. 正規表達式中有分組 `( )` 時，`re.findall` 回傳的是各分組的內容（tuple 清單），而不是整段匹配的文字。
+8. 正規表達式中有分組 `( )` 時，`re.findall` 回傳的是各分組的內容（有兩個以上分組時為 tuple 清單），而不是整段匹配的文字。
 9. quotes.toscrape.com 第 11 頁已沒有名言，伺服器會回傳 404，所以翻頁迴圈只要判斷 404 就能停止。
 10. HTTP 是「無狀態」的協定；`requests.Session()` 可以自動保存伺服器發的 cookie，並在之後的請求中自動帶回。
 
